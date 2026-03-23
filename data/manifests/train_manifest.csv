@@ -1,0 +1,2 @@
+sample_id,bmode_path,cdfi_path,mask_path,label
+case_0001,/path/to/bmode_case_0001.png,/path/to/cdfi_case_0001.png,/path/to/mask_case_0001.png,0
